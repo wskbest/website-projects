@@ -1,0 +1,40 @@
+#contain1
+{
+    position: relative;
+}
+#contain2
+{
+    position: relative;
+}
+
+.half-contain-picture
+{
+    margin: 2%;
+    width: 46%;
+    float: left;
+    overflow: auto;
+}
+
+.display-picture
+{
+    width: 100%;
+}
+
+#contain2 ~ .display-picture
+{
+    position: absolute;
+    z-index: 1;
+}
+
+#contain2 ~ .words
+{
+    position: absolute;
+    z-index: 2;
+
+}
+
+div-contain-image
+{
+    position: relative;
+}
+

@@ -1,0 +1,16 @@
+#contain1
+{
+    position: relative;
+}
+
+
+.words
+{
+    position: absolute;
+    text-align: center;
+}
+
+.display-picture
+{
+    width: 200px;
+}
