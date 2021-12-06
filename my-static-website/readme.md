@@ -23,3 +23,5 @@
 ## postion 很奇怪，真的奇怪
 ## z-index要 position:absolute 支持
 ## 在看看吧
+
+# git初始化，保留学习记录
