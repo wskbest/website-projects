@@ -25,3 +25,11 @@
 ## 在看看吧
 
 # git初始化，保留学习记录
+
+# positioned ancestor
+## position:relative 修改ancestor
+https://blog.csdn.net/qq_46469137/article/details/105921737
+
+
+# document flow 
+文件流
