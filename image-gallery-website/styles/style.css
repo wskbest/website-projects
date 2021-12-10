@@ -1,0 +1,88 @@
+header
+{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+    background-color: gray;
+
+}
+#section1
+{
+    overflow: auto;
+}
+
+
+#navgation-container{
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+}
+.navgation
+{
+    box-sizing: border-box;
+    color: white;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    overflow: hidden;
+}
+a{
+    color: white;
+    text-decoration:none;
+    font-size: 50px;
+}
+
+#home
+{
+    box-sizing: border-box;
+    background-color: green;
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+    overflow: hidden;
+}
+
+#home:hover,.navgation:hover
+{
+    background-color: gray;
+
+}
+
+.page
+{
+    background-color: gray;
+}
+
+.container
+{
+    position: relative;
+    border-color: red;
+    width: 100%;
+}
+
+
+.half-contain-picture
+{
+    position: relative;
+    width :46%;
+    display: inline-block;
+    margin:2%;
+    
+}
+
+.display-picture
+{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+.words
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
